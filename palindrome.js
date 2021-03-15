@@ -25,5 +25,5 @@ function isEven(v) {
 		return false;
 }
 
-console.log(isEven(2))
-console.log(isEven(3))
+// console.log(isEven(2))
+// console.log(isEven(3))
